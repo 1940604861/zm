@@ -1,0 +1,91 @@
+
+body{
+	background:#999;
+  font-family: 'Open Sans', sans-serif;
+
+}
+
+body h1 {
+  color:#FFF;
+  text-align: center;
+  padding: 10PX 0;
+  font-size: 35PX;
+}
+.app-cam{
+  width:28%;
+  margin:0 auto;
+  text-align: center;
+  background:url("../images/bg.jpg")0px 0px no-repeat;
+  padding:4em;
+  height: 80%;
+}
+.cam {
+  padding: 1em 0;
+}
+form {
+   padding: 0% 1%;
+}
+/*-----*/
+.cam img {
+  margin: 2em 0;
+}
+.app-cam input[type="text"]{
+  width: 81.2%;
+  padding: 1.25em 1em 1.25em 4em;
+  color: #283440;
+  font-size: 16px;
+  outline: none;
+  font-weight: 500;
+  border: none;
+  border-bottom:1px solid #C0C3C8;
+  font-family: 'Open Sans', sans-serif;
+  background: url("../images/icons.png") no-repeat 14px 20px #ffffff;
+ 
+  }
+.app-cam input[type="password"]{
+  width: 81.2%;
+  padding: 1.25em 1em 1.25em 4em;
+  color: #283440;
+  font-size: 16px;
+  outline: none;
+  font-weight: 500;
+  border: none;
+  font-family: 'Open Sans', sans-serif;
+   background: url("../images/icons.png") no-repeat 13px -53px #ffffff;
+  border: none;
+
+  }
+
+  .submit {
+  margin: 1em 0;
+  }
+.app-cam input[type="submit"]{
+  font-size: 20px;
+  font-weight: 300;
+  color: #fff;
+  cursor: pointer;
+  outline: none;
+  padding: 17px 15px;
+  width:100%;
+  border:3px solid #f9671e;
+  background: #f9671e;
+  border-radius: 0.3em;
+}
+input[type="submit"]:hover{
+  background:none;
+  border: 3px solid #f9671e;
+  color: #f9671e;
+
+}
+
+
+.copy-right {
+  padding: 3em 1em;
+}
+.copy-right p {
+	color: #fff;
+	font-size: 1em;
+	font-weight:400;
+  margin: 0 auto;
+  text-align: center;
+}

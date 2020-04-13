@@ -1,0 +1,49 @@
+@charset "utf-8";
+/* CSS Document */
+<!-- 分层  -->
+.zhuti{width:100%; }
+.zhuti h1{width:200px; height:30px; line-height:30px; color:#333; margin:auto; padding-top:30px;}
+.zhuti h4{width:200px; height:20px; line-height:20px; color:#999; margin:auto; padding-top:12px; padding-left:25px;}
+.zhuti p{width:600px; height:20px; color:#999; margin:auto; font-size:13px; padding-top:12px;}
+.zhuti #p_2{width:600px; height:20px; color:#999; margin:auto; font-size:13px; padding-top:8px; padding-left:50px;}
+
+.zhuti_2{width:100%; }
+.zhuti_2 h1{width:200px; height:30px; line-height:30px; color:#333; margin:auto; padding-top:30px;}
+.zhuti_2 h4{width:200px; height:20px; line-height:20px; color:#999; margin:auto; padding-top:12px; padding-right:60px;}
+.zhuti_2 p{width:600px; height:20px; color:#999; margin:auto; font-size:13px; padding-top:12px;}
+.zhuti_2 #p_2{width:600px; height:20px; color:#999; margin:auto; font-size:13px; padding-top:8px; padding-left:400px;}
+
+.zhuti_3{width:1300px;; height:220px; padding-top:20px; margin:auto; }
+.zhuti_3 .imgs_1{ background:url(../img/zhuti_1.jpg);width:340px; height:220px; float:left; margin:0 25px 0 60px; }
+.zhuti_3 .imgs_2{ background:url(../img/zhuti_2.jpg);width:340px; height:220px; float:left; margin:0 25px 0 60px; }
+.zhuti_3 .imgs_3{ background:url(../img/zhuti_3.jpg);width:340px; height:220px; float:left; margin:0 25px 0 60px; }
+
+.zhuti_4{width:1300px;; height:260px; padding-top:20px;margin:auto; }
+.zhuti_4 .imgs_4{ background:url(../img/zhuti_4.jpg);width:340px; height:220px; float:left; margin:0 25px 0 60px; }
+.zhuti_4 .imgs_5{ background:url(../img/zhuti_5.jpg);width:340px; height:220px; float:left; margin:0 25px 0 60px; }
+.zhuti_4 .imgs_6{ background:url(../img/zhuti_6.jpg);width:340px; height:220px; float:left; margin:0 25px 0 60px; }
+
+.zhuti_3 .imgs_1:hover{background:url(../img/zhuti_1_2.jpg);width:340px; height:220px; float:left; margin:0 25px 0 60px; }
+.zhuti_3 .imgs_2:hover{background:url(../img/zhuti_2_2.jpg);width:340px; height:220px; float:left; margin:0 25px 0 60px; }
+.zhuti_3 .imgs_3:hover{background:url(../img/zhuti_3_2.jpg);width:340px; height:220px; float:left; margin:0 25px 0 60px; }
+
+.zhuti_4 .imgs_4:hover{background:url(../img/zhuti_4_2.jpg);width:340px; height:220px; float:left; margin:0 25px 0 60px; }
+.zhuti_4 .imgs_5:hover{background:url(../img/zhuti_5_2.jpg);width:340px; height:220px; float:left; margin:0 25px 0 60px; }
+.zhuti_4 .imgs_6:hover{background:url(../img/zhuti_6_2.jpg);width:340px; height:220px; float:left; margin:0 25px 0 60px;  }
+.zhuti_3_4{ width:100%; }
+
+.bottom{width:100%; background:#FFF; }
+.bottom h1{width:200px; height:30px; line-height:30px; color:#333; margin:auto; padding-top:30px;}
+.bottom h4{width:200px; height:20px; line-height:20px; color:#999; margin:auto;  padding:12px 0 20px 25px;}
+.bottom .bottom_left{width:750px;;float:left;}
+.bottom .bottom_left .bottom_left_2{ width:50px; height:200px; border:#000 1px solid; border-bottom:none; margin-left:100px;float:left; }
+.bottom .bottom_left .bottom_left_2 h2{ width:30px; margin: 20px 10px; color:#666; }
+.bottom .bottom_left .bottom_center{ width:595px; height:200px;float:left; float:left;}
+.bottom .bottom_left .bottom_center h4{ width:595px; height:20px;color:#333;}
+.bottom .bottom_left .bottom_center p{ white-space:normal,width:595px; height:180px;color:#999; padding-left:25px; font-size:13px; line-height:25px;}
+.bottom #img_bottom{ width:500px; height:235px;float:right; padding-right:60px; padding-top:15px;}
+.bottom #img_bottom_2{ padding-left:160px;}
+.liaotian {width:45px; height:45px;position:fixed;top:510px;right:0px; background:url(../img/liaotian.jpg); cursor:pointer;}
+
+.liaotian:hover{ background:url(../img/liaotian_2.jpg); }
+#to_top_1{width:45px; height:45px; background:url(../img/dingbu.jpg); cursor:pointer; color:#fff;position:fixed;top:560px;right:0px;}

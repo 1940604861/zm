@@ -1,0 +1,37 @@
+@charset "utf-8";
+/* CSS Document */
+*{margin:0; padding:0;}
+body{background:#CCC}
+.zong{width:1300px;margin:auto; background:#FFF;}
+.top{width:1300px; height:80px; background:url(../img/top_1.jpg); background-size:cover; position:relative;}
+.top p{color:#FFF; font-size:30px; line-height:80px; float:left; margin-left:20px; font-weight:bold;}
+.top .top_1{ width:100px; float:right;}
+.top .top_1 img{padding-top:18px;}
+.top .top_1 a{color:#FFF; margin-bottom:25px; position:absolute;top:32px;}
+.top .top_2{ width:100px; float:right;  margin-right:30px;}
+.top .top_2 img{padding-top:18px;}
+.top .top_2 a{color:#FFF; margin-bottom:25px; position:absolute;top:32px;}
+
+.zong_left_right{width:1300px; height:610px; background:#CCC;}
+.left{width:178px; height:600px; background:url(../img/left_4.jpg); background-size:cover; float:left; margin-top:5px; border:1px solid #FFF;}
+.left .left_top{width:180px; height:25px; background:url(../img/top_1.jpg); background-size:cover; }
+.left .left_top img{ float:left; padding-top:5px;}
+.left .left_top h3{ color:#FFF; float:left; line-height:25px; margin-left:5px;}
+.left h4{width:180px; height:35px;  text-align:left; line-height:35px;  border-bottom:1px  #CCCCCC solid;
+         border-top:1px  #CCCCCC solid; text-align:center; cursor:pointer; font-size:15px; 
+		 position:relative;  }
+		 
+.left p {color:#333;text-align:center; line-height:30px; cursor:pointer; font-size:13px;}
+.left p a{color:#333; text-decoration:none;}
+.left p a:hover{color:#F00}
+.one{background:url(../img/left_2.jpg); background-size:cover;}
+
+.right{width:1110px; height:600px; background:#FFF; float:left;margin-top:5px; margin-left:10px;}
+.right .ct{padding:5px 0 0 15px;}
+.wei{width:1300px; height:30px; background:url(../img/top_1.jpg); background-size:cover;}
+.wei p{text-align:center; line-height:30px; color:#FFF}
+.acc{width:10px; height:10px; background:url(../img/up.gif); background-size:cover; position:absolute;top:15px; right:10px}
+.bcc{width:10px; height:10px; background:url(../img/down.gif); background-size:cover; position:absolute;top:15px; right:10px}
+
+
+

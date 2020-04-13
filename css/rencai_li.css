@@ -1,0 +1,39 @@
+@charset "utf-8";
+/* CSS Document */
+*{margin:0; padding:0;}
+body{ background:#000;}
+ul{ list-style:none}
+a{text-decoration:none; }
+.zong{width:1300px;margin:auto; background:url(../img/rencai_1.jpg);}
+.top_1{width:100%; height:30px; line-height:30px; background:#FFF}
+.top_1 p{ width:300px; height:30px; float:left ;font-size:13px; color:#666; padding-left:110px;}
+.top_1 a{float:right;color:#666; padding-right:50px;}
+.top_2{ width:100%; height:100px; background:url(../img/top_2.png); background-size:cover;}
+.top_2 img{width:557px; height:100px; float:left}
+.top_2 h2{float:right; color:#093; padding-right:130px; padding-top:34px;}
+.caidan{width:100%; height:60px; background:url(../img/caidan_1.png); background-size:cover;}
+.caidan ul{width:100%; height:60px;}
+.caidan li a{color:#FFF; padding:0 65px;float:left; font-size:18px; line-height:60px;}
+.caidan li a:hover{background:#C60}
+.zong_top{width:1300px; height:30px; background:url(../img/rencai_3.jpg); background-size:cover;}
+/*  中部内容*/
+.san_zong{width:1300px;height:600px }
+.san_zong .san_left{ width:600px; height:600px; float:right;}
+table{ width:600px; margin-top:30px; border-left:2px  #CCCCCC solid;}
+tr{width:600px; height:30px; }
+table tr .td_1{ width:100px;text-align:right; font-size:14px; font-family:宋体; color:#666;}
+.td_p{width:100px; height:40px; background:url(../img/rencai_2.jpg); background-size:cover; color:#FFF;
+    font-size:16px; text-align:center; font-weight:bold; border-radius:5px; line-height:38px; margin-left:50px; margin-bottom:20px}
+.san_zong .san_right{ width:670px; height:495px;float:left; padding-top:15px; padding-left:30px;}
+
+.san_zong .san_right p{ line-height:30px; font-size:13px; font-family:宋体; color:#666}
+
+
+
+/*  尾部 */
+.weibu{width:100%; height:200px; background:url(../img/caidan_1.png); background-size:cover;}
+.weibu .weibu_h2{width:600px; height:30px;margin:auto; padding:70px 0 20px 0;}
+.weibu .weibu_h2 h2{ color:#FFF; }
+.weibu .weibu_3{width:100%; height:25px; margin-top:35px; }
+.weibu .weibu_3 p{ float:left; font-size:14px; color:#FFF ; padding-left:15px;}
+

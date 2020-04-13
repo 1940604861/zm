@@ -1,0 +1,17 @@
+@charset "utf-8";
+/* CSS Document */
+
+.san_zong{width:100%;height:600px }
+.san_left{ width:200px; height:510px; background:#FFF; margin-left:8%; float:left;}
+.san_left ul{width:200px; height:320px; text-align:center; }
+.san_left ul ol{ padding:15px 0; color:#060; font-weight:bold; font-size:15px; background:url(../img/libiao.jpg); background-size:cover;} 
+.san_left ul li{ padding:15px 0; color:#060; cursor:pointer;} 
+#img_2{ margin-top:5px ;}
+.one{background:url(../img/libiao.jpg); background-size:cover;}
+.san_right{width:1000px; float:left;margin:20px 0 0 20px; }
+.san_right .san_right_1{width:940px; }
+.san_right .san_right_1 .img_1{ border:#999 1px solid; margin:20px 35px 0 35px;}
+.san_right .san_right_1 .san_right_er{ width:450px;  float:left; margin-left:35px;}
+.san_right .san_right_1 .san_right_er table .td_1{text-align:right; line-height:25px; font-weight:bold;}
+.san_right .san_right_1 .san_right_san{  width:450px;  float:left;}
+.san_right .san_right_1 .san_right_san p{ line-height:30px; font-size:15px; color:#333;}
